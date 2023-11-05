@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a93a10e0-b506-4952-a7e5-af7d140f48ba": {
+      "ProjectGuid": "a93a10e0-b506-4952-a7e5-af7d140f48ba",
+      "DisplayName": "RailwaySystem",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
